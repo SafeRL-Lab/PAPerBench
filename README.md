@@ -21,6 +21,12 @@ python -m vllm.entrypoints.openai.api_server \
   --trust-remote-code
 ```
 
+For personalization evaluation
+
+```
+bash paperbench/personalization/eva_personalization.sh
+```
+
 For privacy evaluation
 ```
 bash paperbench/privacy/eva_privacy.sh
