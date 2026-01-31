@@ -9,7 +9,7 @@ Install packages
 
 Run VLLM server
 ```
-export CUDA_VISIBLE_DEVICES=4,5,6,7   # 示例：一张卡
+export CUDA_VISIBLE_DEVICES=4,5,6,7   
 python -m vllm.entrypoints.openai.api_server \
   --model meta-llama/Llama-4-Scout-17B-16E-Instruct \
   --host 0.0.0.0 \
