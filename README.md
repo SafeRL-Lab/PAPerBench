@@ -20,3 +20,8 @@ python -m vllm.entrypoints.openai.api_server \
   --gpu-memory-utilization 0.90 \
   --trust-remote-code
 ```
+
+For privacy evaluation
+```
+bash paperbench/privacy/eva_privacy.sh
+```
