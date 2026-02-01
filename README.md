@@ -53,7 +53,7 @@ bash paperbench/privacy/eva_privacy.sh
 If you use AgenticPay in your research, please cite:
 
 ```bibtex
-@misc{agenticpay2025,
+@misc{paperbench2025,
     title={The Effect of Context Length on Privacy and Personalization: Revealing a Scaling Gap},
     author={Shangding Gu},
     year = {2025},
