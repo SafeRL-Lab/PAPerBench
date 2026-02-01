@@ -47,3 +47,18 @@ bash paperbench/personalization/eva_personalization.sh
 ```
 bash paperbench/privacy/eva_privacy.sh
 ```
+
+## Citation
+
+If you use AgenticPay in your research, please cite:
+
+```bibtex
+@misc{agenticpay2025,
+    title={The Effect of Context Length on Privacy and Personalization: Revealing a Scaling Gap},
+    author={Shangding Gu},
+    year = {2025},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/SafeRL-Lab/PAPerBench}},
+}
+```
