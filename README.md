@@ -1,13 +1,27 @@
 # The Effect of Context Length on Privacy and Personalization: Revealing a Scaling Gap
 
-Download dataset from the link: [Dataset](https://huggingface.co/datasets/Anonymous-199/PAPerBench)
+## Download dataset from the link: [Dataset](https://huggingface.co/datasets/Anonymous-199/PAPerBench)
 
+## Create an environment (requires Conda installation): 
 
-Install packages
+Use the following command to create a new Conda environment named robustgymnasium with Python 3.10:
+
+```
+conda create -n paperbench  python=3.10
+```
+
+## Activate the newly created environment:
+
+```
+conda activate paperbench
+```
+
+## Install dependency packages:
+
 
 ```pip install -r requirements.txt```
 
-Run VLLM server
+## Run VLLM server
 ```
 export CUDA_VISIBLE_DEVICES=4,5,6,7   
 python -m vllm.entrypoints.openai.api_server \
@@ -21,13 +35,13 @@ python -m vllm.entrypoints.openai.api_server \
   --trust-remote-code
 ```
 
-For personalization evaluation
+## For personalization evaluation
 
 ```
 bash paperbench/personalization/eva_personalization.sh
 ```
 
-For privacy evaluation
+## For privacy evaluation
 ```
 bash paperbench/privacy/eva_privacy.sh
 ```
