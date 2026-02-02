@@ -50,7 +50,7 @@ bash paperbench/privacy/eva_privacy.sh
 
 ## Citation
 
-If you use AgenticPay in your research, please cite:
+If you use PAPerBench in your research, please cite:
 
 ```bibtex
 @misc{paperbench2025,
