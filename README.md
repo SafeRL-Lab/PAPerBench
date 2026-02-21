@@ -1,5 +1,5 @@
 
-# The Effect of Context Length on Privacy and Personalization: Revealing a Scaling Gap
+# Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization
 
 ## Download dataset from the link: [Dataset](https://huggingface.co/datasets/PAPer-project/PAPerBench)
 
