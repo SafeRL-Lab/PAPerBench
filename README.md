@@ -53,12 +53,10 @@ bash paperbench/privacy/eva_privacy.sh
 If you use PAPerBench in your research, please cite:
 
 ```bibtex
-@misc{paperbench2025,
-    title={The Effect of Context Length on Privacy and Personalization: Revealing a Scaling Gap},
-    author={Shangding Gu},
-    year = {2025},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/SafeRL-Lab/PAPerBench}},
+@article{gu2026long,
+  title={Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization},
+  author={Gu, Shangding},
+  journal={arXiv preprint arXiv:2602.15028},
+  year={2026}
 }
 ```
