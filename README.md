@@ -1,7 +1,17 @@
 
-# Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization
+<h1 align="center" style="font-size: 30px;"><strong><em>Long Context, Less Focus:</em></strong> A Scaling Gap in LLMs Revealed through Privacy and Personalization</h1>
+<p align="center">
+    <a href="https://arxiv.org/pdf/2602.15028">Paper</a>
+    ·
+    <a href="https://github.com/SafeRL-Lab/PAPerBench">Code</a>
+   ·
+    <a href="https://huggingface.co/datasets/PAPer-project/PAPerBench">Dataset</a>
+    ·    
+    <a href="https://github.com/SafeRL-Lab/PAPerBench/issues">Issue</a>
+  </p>
+</div>
 
-## Download dataset from the link: [Dataset](https://huggingface.co/datasets/PAPer-project/PAPerBench)
+
 
 
 ## Create an environment (requires Conda installation): 
