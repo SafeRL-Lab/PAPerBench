@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://github.com/SafeRL-Lab/PAPerBench">
+    <img src="./paperbench/docs/paperbench_logo.png" alt="Logo" width="380"> 
+  </a>
+    
 <h1 align="center" style="font-size: 30px;"><strong><em>Long Context, Less Focus:</em></strong> A Scaling Gap in LLMs Revealed through Privacy and Personalization</h1>
 <p align="center">
     <a href="https://arxiv.org/pdf/2602.15028">Paper</a>
