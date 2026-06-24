@@ -11,7 +11,7 @@ python eval_personalization_mcq.py \
 export USE_OPENAI=0
 export LITELLM_BASE_URL="your_litellm_link/v1"
 export LITELLM_API_KEY="sk-XXX"
-python /home/shangdinggu/nvidia_server/agentic_web/live_rl/opal_benchmark/personal/build_2stage_data/eval_personalization_litllm.py \
+python /eval_personalization_litllm.py \
   --input your_data.jsonl \
   --outdir your_results/ \
   --models "openai/gpt-5.2" \
